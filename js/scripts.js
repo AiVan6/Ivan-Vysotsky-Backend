@@ -69,7 +69,7 @@ const T = {
   en: {
     available: 'Available for hire',
     firstName: 'Ivan',
-    lastName: 'Vysotskiy',
+    lastName: 'Vysotsky',
     role: 'Backend Developer · Java / PHP / AI Automation',
     heroDesc: 'Backend developer with 3+ years of experience. I specialise in rapid MVP launches, API integrations and AI-driven automation. I own tasks end-to-end: from idea to production.',
     ctaContact: 'Get in touch',
@@ -123,7 +123,7 @@ const T = {
     edu2year: "2022 · Bachelor's Degree",
     edu3degree: 'Английский язык',
     edu2course: 'Information security when using mobile technologies',
-    edu2courseSkill: 'ТГУ систем управления и радиоэлектроники',
+    edu2courseSkill: 'TSU of Control Systems and Radioelectronics',
     edu2Courseyear: '2022 · Course',
     edu3school: 'Upper-Intermediate (B2)',
     edu3year: 'Hands-on Experience · 2023–2024',
@@ -131,7 +131,7 @@ const T = {
     contactSub: 'Open to new projects — full-time, remote',
     emailLink: 'iyvysotskiy4@gmail.com',
     phoneLink: '+7 (961) 976-70-05',
-    footerCopy: '© 2026 Ivan Vysotskiy · Backend Developer'
+    footerCopy: '© 2026 Ivan Vysotsky · Backend Developer'
   }
 };
 
